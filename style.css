@@ -1,0 +1,22 @@
+body{
+	background-color: #f3f3f3;
+	text-align: center;
+}
+
+.header{
+	color: red;
+}
+
+.header h1{
+	font-size: 3em;
+}
+.content{
+	width: 800px;
+	margin: auto;
+}
+.skills table {
+	display: inline;
+}
+.interests ul{
+	color: #888;
+}
